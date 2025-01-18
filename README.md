@@ -41,7 +41,7 @@ The development of reliable AI systems capable of understanding and reasoning ab
     -   **Impostor Detection Accuracy:** To measure the accuracy of detecting inserted "impostor" words.
     -   **Correlation with Human Judgments:** The correlation between the critic’s evaluation scores and human evaluation of text quality for the subset of generated text samples.
     -   **Downstream performance:** We use datasets from the FineMath paper such as GSM8k and MATH to test and evaluate our model's performance on actual math-related tasks.
--   **Baseline Models (If Applicable):** We will also include a comparison with a randomly initialized model to see if there is actual improvement in the performance and a smaller version of the model that is not ModernBERT to test the effectiveness of architectural updates in the new model. We also plan to compare the result of SPL with a model trained with the traditional method, using the generator's cross-entropy loss.
+-   **Baseline Models:** We will also include a comparison with a randomly initialized model to see if there is actual improvement in the performance and a smaller version of the model that is not ModernBERT to test the effectiveness of architectural updates in the new model. We also plan to compare the result of SPL with a model trained with the traditional method, using the generator's cross-entropy loss.
 
 ## **6. Results and Discussion:**
 
