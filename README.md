@@ -1,4 +1,4 @@
-<h1 align="center">Self-Perturbation Learning for Mathematical Reasoning Verification</h1>
+<h1 align="center">Self-Perturbation Learning for Mathematical Reasoning Verification: "2 truth and a lie" as machine learning algorithms</h1>
 
 <h3 align="center"><a href="https://kreasof.my.id/" style="color: #2088FF;">Kreasof AI</a></h3>
 
