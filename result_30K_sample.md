@@ -1,4 +1,4 @@
-These results based on 30K training example from `math-ai/AutoMathText` datasets. The revised quality calculated by negative min-max scaling from negative log-likelihood (min = -1, max = 0).
+These results based on 30K training example from `math-ai/AutoMathText` datasets. The revised quality calculated by negative min-max scaling from negative log-likelihood (min = -1, max = 0). The original calculation from experiment v5 uses different scaling (min = -100, max = 0).
 
 ---
 
