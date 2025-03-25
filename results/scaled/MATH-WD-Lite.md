@@ -9,27 +9,27 @@
 
 ```
 Accuracy: 0.2750
-Mean Δ(max wrong): -0.4024
-Mean Δ(avg wrong): -0.1223
+Mean Δ(max wrong): -0.1199
+Mean Δ(avg wrong): -0.0037
 
-Length-Score Correlation: 0.0622
+Length-Score Correlation: 0.0259
 
-Level vs Accuracy Correlation: -0.1000
-Level vs Δ(max wrong) Correlation: -0.1000
+Level vs Accuracy Correlation: -0.3000
+Level vs Δ(max wrong) Correlation: -0.4000
 
 Accuracy by Level:
-Level 1: 0.2667
-Level 2: 0.3514
-Level 3: 0.1290
-Level 4: 0.2632
-Level 5: 0.3333
+Level 1: 0.3333
+Level 2: 0.2973
+Level 3: 0.2258
+Level 4: 0.2368
+Level 5: 0.3077
 
 Δ(max wrong) by Level:
-Level 1: -0.2493
-Level 2: -0.5187
-Level 3: -0.4840
-Level 4: -0.3258
-Level 5: -0.3607
+Level 1: -0.0474
+Level 2: -0.1157
+Level 3: -0.1394
+Level 4: -0.1621
+Level 5: -0.0951
 ```
 
 ---
@@ -44,28 +44,28 @@ Level 5: -0.3607
 - Results:
 
 ```
-Accuracy: 0.3438
-Mean Δ(max wrong): -0.1281
-Mean Δ(avg wrong): -0.0148
+Accuracy: 0.3063
+Mean Δ(max wrong): -0.1294
+Mean Δ(avg wrong): -0.0131
 
-Length-Score Correlation: -0.0116
+Length-Score Correlation: -0.0093
 
-Level vs Accuracy Correlation: -0.7000
+Level vs Accuracy Correlation: -0.3000
 Level vs Δ(max wrong) Correlation: -0.3000
 
 Accuracy by Level:
-Level 1: 0.4000
+Level 1: 0.3333
 Level 2: 0.3514
-Level 3: 0.3871
+Level 3: 0.3226
 Level 4: 0.3684
-Level 5: 0.2564
+Level 5: 0.1795
 
 Δ(max wrong) by Level:
-Level 1: -0.0424
-Level 2: -0.1701
-Level 3: -0.1028
-Level 4: -0.1580
-Level 5: -0.1123
+Level 1: -0.0403
+Level 2: -0.2312
+Level 3: -0.0806
+Level 4: -0.1329
+Level 5: -0.1025
 ```
 
 ---
