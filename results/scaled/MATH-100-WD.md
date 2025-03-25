@@ -39,7 +39,7 @@ Level 5: -0.1055
 - Base model: `answerdotai/ModernBERT-large`
 - Total row: 2 million
 - Data generation: Embedding guided perturbation
-- Embedding model: `minishlab/potion-base-2Mminishlab/potion-base-2M`
+- Embedding model: `minishlab/potion-base-2M`
 - Checkpoints: `kreasof-ai/SPL-Large-Experimental`
 - Results:
 
